@@ -1,6 +1,10 @@
 # Final-Project
 
-If you're reading this, I managed to push.
+Team name: TBD
+
+Simon Cochran: sjc167@pitt.edu
+name: email
+name: email
 
 Daniel Database: https://data.wprdc.org/dataset/field-listings
     - Will prob make some kind of metric where having more baseball fields is a "better" neighborhood
