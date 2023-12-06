@@ -23,3 +23,6 @@ Simon Database: https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsb
      -'SchoolsNeighborhoods' is the individual analysis notebook
 
 This repository uses public databases to find the "best" neighborhood in Pittsburgh via various submetrics. 
+
+**Daniel Conclusion (Paste to FinalMetric)**
+The best neighborhoods in our final metric differs a fair bit from the list of neighborhoods by baseball compatibility, which makes sense given its relatively low weights. However, Southside flats and Southside slopes are relatively close, so it is surprising to see that difference between those two neighborhoods, were each is the best neighborhood in their metric. Personally, my favorite neighborhood is either downtown or squirrel hill north. Downtown did about average, and squirrel hill north did pretty well in our final metric, so I think the final metric is relatively agreeable. Having been to Southside slopes, I think it’s not a bad neighborhood at all (if not a bit hilly), and I think our final metric did a solid job of choosing the best neighborhood.
